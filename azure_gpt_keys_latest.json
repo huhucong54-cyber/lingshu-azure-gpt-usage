@@ -2,7 +2,7 @@
   "ok": true,
   "error": null,
   "missing_masks": [],
-  "updated_at": "2026-11-18T17:47:13+08:00",
+  "updated_at": "2026-11-18T17:55:02+08:00",
   "timezone": "Asia/Shanghai",
   "source": "openapi",
   "fresh": true,
@@ -13,25 +13,25 @@
   "channel_id": 932,
   "currency": "USD",
   "total_submitted_keys": 2,
-  "total_used_usd": "20290.482334",
+  "total_used_usd": "20469.271940",
   "usage_unsampled_count": 0,
-  "latest_sampled_at": "2026-11-18 17:36:21",
+  "latest_sampled_at": "2026-11-18 17:47:21",
   "keys": [
     {
       "mask": "1tLS6X2****OGPRCW",
       "found": true,
       "id": 54390,
-      "used_usd": "12369.683624",
+      "used_usd": "12496.893354",
       "usage_site_count": 1,
-      "usage_sampled_at": "2026-11-18 17:36:21"
+      "usage_sampled_at": "2026-11-18 17:47:21"
     },
     {
       "mask": "BvYr6zO****OGjZDi",
       "found": true,
       "id": 54383,
-      "used_usd": "7920.798710",
+      "used_usd": "7972.378586",
       "usage_site_count": 1,
-      "usage_sampled_at": "2026-11-18 17:36:21"
+      "usage_sampled_at": "2026-11-18 17:47:21"
     }
   ],
   "public_url": "https://cdn.jsdelivr.net/gh/huhucong54-cyber/lingshu-azure-gpt-usage@main/azure_gpt_keys_latest.json",
