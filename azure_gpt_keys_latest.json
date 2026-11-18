@@ -34,7 +34,7 @@
       "usage_sampled_at": "2026-11-18 14:40:21"
     }
   ],
-  "public_url": "https://raw.githubusercontent.com/huhucong54-cyber/lingshu-azure-gpt-usage/main/azure_gpt_keys_latest.json",
+  "public_url": "https://cdn.jsdelivr.net/gh/huhucong54-cyber/lingshu-azure-gpt-usage@main/azure_gpt_keys_latest.json",
   "poll_interval_seconds": 120,
   "freshness_field": "updated_at"
 }
