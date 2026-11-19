@@ -1,39 +1,15 @@
 {
-  "ok": true,
-  "error": null,
-  "missing_masks": [],
-  "updated_at": "2026-11-19T17:08:33+08:00",
+  "ok": false,
+  "error": "channels_request_failed",
+  "updated_at": "2026-11-19T17:09:23+08:00",
   "timezone": "Asia/Shanghai",
   "source": "openapi",
-  "fresh": true,
+  "fresh": false,
   "site": "https://lingshu.101aix.net",
   "account": "supplier_127",
   "display_name": "逗乐",
-  "channel_group": "逗乐-Azure - GPT",
-  "channel_id": 932,
-  "currency": "USD",
-  "total_submitted_keys": 2,
-  "total_used_usd": "38450.185784",
-  "usage_unsampled_count": 0,
-  "latest_sampled_at": "2026-11-19 17:03:21",
-  "keys": [
-    {
-      "mask": "1tLS6X2****OGPRCW",
-      "found": true,
-      "id": 54390,
-      "used_usd": "18549.058680",
-      "usage_site_count": 1,
-      "usage_sampled_at": "2026-11-19 17:03:21"
-    },
-    {
-      "mask": "BvYr6zO****OGjZDi",
-      "found": true,
-      "id": 54383,
-      "used_usd": "19901.127104",
-      "usage_site_count": 1,
-      "usage_sampled_at": "2026-11-19 17:03:21"
-    }
-  ],
+  "keys": [],
+  "detail": "The read operation timed out",
   "public_url": "https://cdn.jsdelivr.net/gh/huhucong54-cyber/lingshu-azure-gpt-usage@main/azure_gpt_keys_latest.json",
   "poll_interval_seconds": 120,
   "freshness_field": "updated_at"
